@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Bagus!
+# Hi there 👋 , I'm Dedy Tobing!
 Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
 
 ### Tools:
@@ -18,7 +18,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
     - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
+    - 📫 How to reach me: <a href="mailto:dedylumbantobing3@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
@@ -37,7 +37,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 </p>
 
 <!--
-**bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dedytobing/Dedytobing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
