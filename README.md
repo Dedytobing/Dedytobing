@@ -3,11 +3,10 @@ Currently, I am studying at STIKOM Tunas Bangsa and am deepening my understandin
 
 ### Tools:
 <p>
-    <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
-    <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows" />
+    <img src="https://img.shields.io/badge/Version Control-Git-blue?&logo=git" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/bagusfe" />
+    <img src="https://gpvc.arturio.dev/Dedytobing" />
 </p>
 
 ### Stats:
@@ -31,18 +30,3 @@ Currently, I am studying at STIKOM Tunas Bangsa and am deepening my understandin
 <p>
     <a href="https://dedy-tobing.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Website-https://Dedytobing-green?" /></a>
 </p>
-
-<!--
-**Dedytobing/Dedytobing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
